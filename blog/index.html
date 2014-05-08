@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+      {% for post in paginator.posts %}
+  <div class="container">
+        <div class="blog-main">
+            <h2 class="blog-post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p class="blog-post-meta">{{ post.date | date: "%A, %B %-d, %Y, %H:%M" }}</p>
+
+            {{ post.content }}</div></div></br></br>
+          {% endfor %}

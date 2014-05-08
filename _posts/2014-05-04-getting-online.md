@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Getting online. Again."
+date: 2014-05-04 18:27
+---
+
+I have not blogged in months (maybe an year or two) and sometimes I think whether I should start blogging. If I start blogging what should I write about? I don't have a daily routine, I do whatever I find interesting for that day. It's a bad habit of me and I have not tried to change it, yet. I have been offline mostly the last year due to my high school and exams, and I haven't fully recovered from it. I have my exam results coming up in a couple of days and all those processes of university will be starting soon. To be honest, I'm being emotionless right now. No anxiety on the results compared to the usual anxiety high school students get on the first week of May. I need to catch up on my reading and coding and everything. Blogger was kind of outdated and closed so I thought getting back to Wordpress (self hosted). But I stumbled up on Github pages, Jekyll and Bootstrap which resulted in this site. I ditched my blog design for a heavily edited Bootstrap blog example combined with Jekyll. Jekyll Bootstrap was so much for me, so I preferred to design my own theme. Jekyll is interesting, and you can see the code for this site on my Github. I have still to make the pages for the links on the navigation bar but I'm bored with writing HTML/CSS for now. I think I should start reading <lead>1984</lead> so that I can live in a virtual world for some time. I have something in my mind on what to write next. Out.
